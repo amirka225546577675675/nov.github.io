@@ -1,0 +1,15 @@
+{
+  "name": "primati",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "browser",
+  "orientation": "portrait",
+  "start_url": "/index.html",
+  "icons": [
+        {
+          "src": "free-icon-monkey-4868188.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ]
+  }
