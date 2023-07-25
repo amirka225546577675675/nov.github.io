@@ -1,0 +1,22 @@
+.header__square-pic {
+    height: 568px;
+    width: 568px;
+    background-color: #e0821d;
+    position: absolute;
+    top: 64px;
+    right: 0;
+    z-index: 0;
+}
+.rotation {
+    -webkit-animation-name: rotation;
+    -webkit-animation-duration: 20s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    animation-name: rotation;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+div {
+    display: block;
+}
